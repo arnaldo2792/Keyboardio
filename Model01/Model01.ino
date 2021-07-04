@@ -40,7 +40,7 @@
                                                                                     ___, \
 \
         XXX,        Key_F6,         Key_F7,            Key_F8,                   Key_F9,              ___,                   ___, \
-        Key_Delete, Consumer_PlaySlashPause,  Key_LeftCurlyBracket, Key_RightCurlyBracket, Key_LeftBracket, Key_RightBracket, System_Sleep, \
+        Key_Delete, Consumer_PlaySlashPause,  Key_LeftCurlyBracket, Key_RightCurlyBracket, Key_LeftBracket, Key_RightBracket, ___, \
                     Key_LeftArrow,            Key_DownArrow,        Key_UpArrow,           Key_RightArrow,  Key_F11,                   Key_F12, \
         ___,        Consumer_VolumeDecrement, Consumer_VolumeIncrement,   Key_BacklightDown,   Key_BacklightUp,    Key_Backslash,      Key_Pipe, \
         Key_RightShift, Key_RightAlt, Key_mouseBtnR, Key_RightControl, \
